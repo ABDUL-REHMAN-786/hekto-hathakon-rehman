@@ -16,7 +16,7 @@ import Newslater from "./components/Newslater";
 function Homepage(){
   return(
     <div>
-      <Header />
+      
       <Hero />
       <Feature />
       <LatestProducts />
@@ -27,7 +27,6 @@ function Homepage(){
       <TopCategories />
       <Newslater />
       <BlogSection />
-      <Footer />
     </div>
   )
 }
