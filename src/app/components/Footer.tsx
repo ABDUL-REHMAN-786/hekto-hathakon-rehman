@@ -89,13 +89,13 @@ function Footer() {
         <div className="flex justify-between items-center w-[90%] mx-auto">
           <p className="text-gray-500">&copy; Webecy - All Rights Reserved. Muqaddas Fatima</p>
           <div className="flex space-x-4">
-            <a href="https://github.com/MuqaddasFatima24" className="w-8 h-8 rounded-full bg-[#151875] flex items-center justify-center text-white hover:bg-blue-700">
+            <a href="https://www.facebook.com/login.php/" className="w-8 h-8 rounded-full bg-[#151875] flex items-center justify-center text-white hover:bg-blue-700">
               <FaFacebookF />
             </a>
-            <a href="@muqadas_fatima25" className="w-8 h-8 rounded-full bg-[#151875] flex items-center justify-center text-white hover:bg-blue-700">
+            <a href="https://pro.twitter.com/login" className="w-8 h-8 rounded-full bg-[#151875] flex items-center justify-center text-white hover:bg-blue-700">
               <FaTwitter />
             </a>
-            <a href="@muqadas_fatima25" className="w-8 h-8 rounded-full bg-[#151875] flex items-center justify-center text-white hover:bg-blue-700">
+            <a href="https://www.instagram.com/" className="w-8 h-8 rounded-full bg-[#151875] flex items-center justify-center text-white hover:bg-blue-700">
               <FaInstagram />
             </a>
           </div>
